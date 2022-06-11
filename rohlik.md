@@ -1,9 +1,9 @@
 ## Title
 Rohlik [CZ/PC] - PDP - Missing translation  
   
-| Created   | Severity| Issue Type  | Frequency | Platform |Enviroment Info |
+| Created   | Severity| Issue Type  | Frequency | Platform |Environment Info |
 | --  | --- | -- | -- | -- | -- |
-| 13-07-2021 | Medium | Content | Always | PC | Chrome ver.(newest)|
+| 13-07-2021 | Medium | Content | Always | PC | Chrome |
 
 ### Precondition Steps:  
 1. Open Chrome  
@@ -12,8 +12,8 @@ Rohlik [CZ/PC] - PDP - Missing translation
 4. Turn on Simulate mobile device  
 
 ### Action Performed:  
-1. From left upper corner click on 3 line menu "Nabidka"
-2. From drop down menu click on button: "+" from section: "Trvanlivé"  
+1. From the left upper corner click on 3 line menu "Nabidka"
+2. From drop-down menu click on button: "+" from section: "Trvanlivé"  
   
 ### Expect Result:  
 PDP have correct description  
