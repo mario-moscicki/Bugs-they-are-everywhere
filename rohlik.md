@@ -1,5 +1,5 @@
 ## Title
-Missing translation  
+Rohlik [CZ/PC] - PDP - Missing translation  
   
 | Created   | Severity| Issue Type  | Frequency | Platform |Enviroment Info |
 | --  | --- | -- | -- | -- | -- |
