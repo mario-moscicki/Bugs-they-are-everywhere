@@ -3,7 +3,7 @@ Rohlik [CZ/PC] - PDP - Missing translation
   
 | Created   | Severity| Issue Type  | Frequency | Platform |Enviroment Info |
 | --  | --- | -- | -- | -- | -- |
-| 13-07-2021 | Medium | Content | Always | PC | Chrome |
+| 13-07-2021 | Medium | Content | Always | PC | Chrome ver.(newest)|
 
 ### Precondition Steps:  
 1. Open Chrome  
